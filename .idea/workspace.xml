@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="431fe487-89ae-4ab5-8ff4-89391b4f5d08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/rater" beforeDir="false" afterPath="$PROJECT_DIR$/rater" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rater/api/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rater/api/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rater/api/models/actor.py" beforeDir="false" afterPath="$PROJECT_DIR$/rater/api/models/actor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rater/api/models/director.py" beforeDir="false" afterPath="$PROJECT_DIR$/rater/api/models/director.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rater/api/models/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/rater/api/models/movie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rater/api/models/review.py" beforeDir="false" afterPath="$PROJECT_DIR$/rater/api/models/review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rater/api/serializers/userserializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/rater/api/serializers/userserializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rater/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rater/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rater/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/rater/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rater" />
+  </component>
+  <component name="ProjectId" id="1pLaQXYq9a9akc5LfBYaXZxNeFa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rater/manage.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="django_restapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\JD\Desktop\django_restapi\env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rater" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rater/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="431fe487-89ae-4ab5-8ff4-89391b4f5d08" name="Default Changelist" comment="" />
+      <created>1614964808353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614964808353</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
